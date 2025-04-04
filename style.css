@@ -1,0 +1,35 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  font-family: Libre Baskerville, serif;
+  font-size: 24px;
+  text-align: center;
+  border-width: 5px;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Libre Baskerville, serif;
+  font-size: 12px;
+  text-align: center;
+  border-width: 5px;
+}
+
+div {
+  margin-left: 25%;
+  width: 30%;
+  padding: 12px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 100%;
+}
